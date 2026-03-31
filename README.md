@@ -1,7 +1,5 @@
 # Hi, I'm Oleg 👋
 
-I build tools that solve real problems — mostly around education, automation, and competitive programming.
-
 ## 🔨 What I've Built
 
 ### [gradescope-grade-uploader](https://github.com/olegolego/grascopesendgrades)
