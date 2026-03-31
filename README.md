@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Oleg 👋
 
-<!--
-**olegolego/olegolego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools that solve real problems — mostly around education, automation, and competitive programming.
 
-Here are some ideas to get you started:
+## 🔨 What I've Built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [gradescope-grade-uploader](https://github.com/olegolego/grascopesendgrades)
+One of the only ways to upload grades to Gradescope externally — because Gradescope has no public API. Uses Selenium + cookie-based auth to automate batch grade uploads from a CSV. Part of a larger AutoGradeAI grading workflow.
+
+`Python` `Selenium` `Automation` `EdTech`
+
+### [task-hub](https://github.com/olegolego/task-hub)
+A local task manager (AveryLocalManager) built in TypeScript.
+
+`TypeScript`
+
+### [somefunctions](https://github.com/olegolego/somefunctions)
+A collection of solutions and utilities for Olympiad-level CS problems.
+
+`C++` `Competitive Programming`
+
+---
+
+## 🛠 Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+---
+
+## 📫 Get in Touch
+
+Open to collaborating on automation tools, EdTech projects, or anything that fills a gap that shouldn't exist.
